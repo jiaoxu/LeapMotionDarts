@@ -1,6 +1,6 @@
 Darts
 =========
-![image](https://github.com/jiaoxu/Darts/blob/master/screenshot.jpg)
+![image](https://github.com/jiaoxu/LeapMotionDarts/blob/master/screenshot.jpg)
 
 Leapmotion Control Darts
 
